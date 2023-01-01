@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dan Wiseman</h1>
 <h3 align="center">a data engineer</h3>
 
-- 🔭 I’m currently working on [cumulative upkeep (react)](/danwiseman/cumulative_upkeep_react) and posting at [dan the data . engineer](https://danthedata.engineer)
+- 🔭 I’m currently working on [cumulative upkeep (react)](https://github.com/danwiseman/cumulative_upkeep_react) and posting at [dan the data . engineer](https://danthedata.engineer)
 
 - 💬 Ask me about **apples and bananas**
 
