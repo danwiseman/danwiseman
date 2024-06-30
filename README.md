@@ -1,11 +1,21 @@
 <h1 align="center">Hi 👋, I'm Dan Wiseman</h1>
-<h3 align="center">a data engineer</h3>
+<h3 align="center">A Data Engineer with a passion for DevOps</h3>
 
-- 🔭 I’m currently working on a [slack ai bot](https://github.com/danwiseman/slackaibot) to interface with various AI models using just emojis. 🥑📷
+- 🔭 I’m currently working on a [Slack AI Bot](https://github.com/danwiseman/slackaibot) that 
+    interfaces with various AI models using just emojis. 🥑📷
+- 💼 I have experience in designing and implementing data pipelines using Apache NiFi and Kafka.
+- 🌱 I'm currently learning more about Kubernetes and practicing TypeScript
+- 💬 Ask me about **Apache NiFi, Kafka, DevOps, or data engineering best practices**.
 
-- 💬 Ask me about **apples and bananas**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/danwiseman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danwiseman" height="30" width="40" /></a>
+<p align="center">
+    <img height="32" width="32" src="https://cdn.simpleicons.org/slack" />
+    <img height="32" width="32" src="https://cdn.simpleicons.org/vercel" />
+    <img height="32" width="32" src="https://cdn.simpleicons.org/redis" />
+    <img height="32" width="32" src="https://cdn.simpleicons.org/langchain" />
+    <img height="32" width="32" src="https://cdn.simpleicons.org/openai" />
+    <img height="32" width="32" src="https://cdn.simpleicons.org/typescript" />
+    <img  height="32" width="32" src="https://cdn.simpleicons.org/python" />
+    <img height="32" width="32" src="https://cdn.simpleicons.org/apachekafka" />
+
 </p>
