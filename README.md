@@ -17,5 +17,5 @@
     <img height="32" width="32" src="https://cdn.simpleicons.org/typescript" />
     <img  height="32" width="32" src="https://cdn.simpleicons.org/python" />
     <img height="32" width="32" src="https://cdn.simpleicons.org/apachekafka" />
-
+    <img height="32" width="32" src="https://cdn.simpleicons.org/apachespark" />
 </p>
