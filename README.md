@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Dan Wiseman</h1>
 <h3 align="center">A Data Engineer with a passion for DevOps</h3>
 
-- 🔭 I’m currently working on a [Slack AI Bot](https://github.com/danwiseman/slackaibot) that 
-    interfaces with various AI models using just emojis. 🥑📷
+- 🔭 I’m currently working on a [Slack AI Bot](https://github.com/danwiseman/epimetheus) that 
+    I call Epimetheus who interfaces with various AI models using just emojis. 🥑📷
 - 💼 I have experience in designing and implementing data pipelines using Apache NiFi and Kafka.
-- 🌱 I'm currently learning more about Kubernetes and practicing TypeScript
+- 🌱 I'm currently learning more about Kubernetes and practicing TypeScript and Rust
 - 💬 Ask me about **Apache NiFi, Kafka, DevOps, or data engineering best practices**.
 
 
