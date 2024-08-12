@@ -14,6 +14,7 @@
     <img height="32" width="32" src="https://cdn.simpleicons.org/redis" />
     <img height="32" width="32" src="https://cdn.simpleicons.org/langchain" />
     <img height="32" width="32" src="https://cdn.simpleicons.org/openai" />
+    <img height="32" width="32" src="https://cdn.simpleicons.org/ollama" />
     <img height="32" width="32" src="https://cdn.simpleicons.org/typescript" />
     <img  height="32" width="32" src="https://cdn.simpleicons.org/python" />
     <img height="32" width="32" src="https://cdn.simpleicons.org/apachekafka" />
